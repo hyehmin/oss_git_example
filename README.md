@@ -39,7 +39,7 @@
   * git pull
   * git diff
 
-![Image] (그림.png)
+![cat] (C:\Users\Haemin\Downloads\cat.jpeg)
 
 -------------
 ### Week2-3 Github, fork, pull request
